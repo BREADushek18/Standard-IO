@@ -1,0 +1,8 @@
+E:\temp\ПРОГИ VS\StandardIO\StandardIO\bin\Debug\StandardIO.exe.config
+E:\temp\ПРОГИ VS\StandardIO\StandardIO\bin\Debug\StandardIO.exe
+E:\temp\ПРОГИ VS\StandardIO\StandardIO\bin\Debug\StandardIO.pdb
+E:\temp\ПРОГИ VS\StandardIO\StandardIO\obj\Debug\StandardIO.csproj.AssemblyReference.cache
+E:\temp\ПРОГИ VS\StandardIO\StandardIO\obj\Debug\StandardIO.csproj.SuggestedBindingRedirects.cache
+E:\temp\ПРОГИ VS\StandardIO\StandardIO\obj\Debug\StandardIO.csproj.CoreCompileInputs.cache
+E:\temp\ПРОГИ VS\StandardIO\StandardIO\obj\Debug\StandardIO.exe
+E:\temp\ПРОГИ VS\StandardIO\StandardIO\obj\Debug\StandardIO.pdb
